@@ -1,0 +1,9 @@
+screen.c:33:6:displayInit	8	static
+screen.c:64:6:screen_send_instruction	24	static
+screen.c:85:6:setTime	16	static
+screen.c:116:6:writeTime	24	static
+screen.c:134:6:screen_string	16	static
+screen.c:153:6:screen_char	24	static
+screen.c:171:6:set_dimmer	16	static
+screen.c:182:10:get_adc	16	static
+screen.c:197:6:screen_reset	8	static

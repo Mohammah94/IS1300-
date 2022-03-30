@@ -1,0 +1,2 @@
+test.c:20:6:test_program	8	static
+test.c:40:6:display_text_test	16	static
